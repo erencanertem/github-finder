@@ -8,7 +8,7 @@ Also You can check out, notes i took step by step when i coding this app.
 
 Here is the [link!](https://github.com/erencanertem/my-notes-react-apps/tree/master/GithubFinder%20App%20Notes)
 
-Live demo [link!](https://githubfinderbyerencanertem.vercel.app/)
+Live demo [link!](https://githubfinderapp-six.vercel.app/user/erencanertem)
 
 ## Project Screen Shots
 
